@@ -2,4 +2,5 @@
 
 Duanhui Li
 
-https://github.com/Spriteson/Lab6_Starter
+
+https://spriteson.github.io/Lab6_Starter
